@@ -51,4 +51,8 @@ Filters: Casualties data for 2021 and 2022.
 
 Slicers: View data by Rural or Urban areas for more detailed analysis.
 
+![road accident1](https://github.com/user-attachments/assets/814d9fcd-8f06-45fd-8006-9c7ae834abe5)
+
+
+
 
